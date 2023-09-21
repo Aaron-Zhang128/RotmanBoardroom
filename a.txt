@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Home Page</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <meta name="author" content="Aaron Zhang">
+        <meta name="description" content="Nature Photoography, Jacob Talin">
+        <meta name="robots" content="noindex">
+        <meta name="geo.country" content="Canada">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body class="bg2">
+        <header class="header">
+<!--
+            <div class="three-menu">
+                <p>
+                    <a href="https://www.facebook.com/earth/" class="link">
+                        <img src="img/fb.png" class="social-img1" alt="facebook" title="facebook">
+                    </a>
+                    <a href="https://www.instagram.com/savetheearthhumans" class="link">
+                        <img src="img/instagram.png" class="social-img1" alt="instagram" title="instagram">
+                    </a>
+                    <a href="https://twitter.com/earth?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="link">
+                        <img src="img/twit.png" class="social-img1" alt="twitter" title="twitter">
+                    </a>
+                </p>
+            </div>
+-->     
+<!--            BUSINESS ANALYTICS | JOB FINDING FOR EMPLOYEES, RECRUITING EMPLOYERS | RESUME UPLOADING , -->
+            <div >
+                <p class="font1">
+                    Jacob Talin
+                </p>
+            </div>
+            <div class="three-menu">
+            </div>
+        </header>
+        <section>
+            <div class="nav-bar">
+                <p>
+                    <a href="index.html" class="a-menu font4">Home</a>
+                    <a href="shop.html" class="a-menu font4">Shop</a>
+                    <a href="comment.html" class="a-menu font4">Comments</a>
+                    <a href="contact.html" class="a-menu font4">Contact</a>
+                </p>
+            </div>
+        </section>
+        <section class="threebox">
+            <div class="threebox-stuff mid-top-vert">
+                <h1 class="name">Jacob Talin</h1>
+                <p class="name-sub font3">Nature Photographer Biologist</p>
+            </div>
+            <div class="threebox-stuff top-vert">
+                <img src="img/forest.jpg" alt="forest" title="forest" class="img">
+                <br>
+                <p>
+                    <a href="https://www.pinterest.ca/bhoffmann312/forest-paintings/" class="readmore">EXPLORE MORE</a>
+                </p>
+            </div>
+            <div class="threebox-stuff mid-vert left-align">
+                <hr class="underline">
+                <p class="font5">
+                    Jacob Talin has been 
+                    <br>
+                    a nature photographer
+                    <br>
+                    for over 20 years.
+                </p>
+            </div>
+            <div class="vertical"></div>
+        </section>
+        <section class="text-sec">
+            <h1 class="title-text font2">When words become unclear</h1>
+            <h1 class="title-text font2">I shall focus with photographs</h1>
+            <h1 class="title-text font2">When images become inadequate</h1>
+            <h1 class="title-text font2">I shall be content with silence</h1>
+            <p class="paragraph font4">
+                Jacob Talin is a wildlife photographer, writer, and conservationist with a passion for educating people about the marvels of the natural world. She believes that photography can be both fine art and a powerful vehicle for storytelling, and considers herself a “wildlife biographer” as much as a wildlife photographer. 
+                <br>
+                <br>
+                It is her mission to raise awareness and change minds about not only the extrinsic beauty of animals, but also their intrinsic worth.
+            </p>
+            <div class="read-div">
+                <p>
+                    <a href="#" class="readmore font4">READ MORE</a>
+                </p>
+                <hr class="underlinereadmore">
+            </div>
+        </section>
+        <section>
+            <br>
+            <hr class="underline-mid">
+            <div class="threebox vertmid">
+                <div class="threebox-stuff2"> 
+                    <p>
+                        <a href="https://www.facebook.com/earth/" class="link">
+                            <img src="img/fb.png" class="social-img" alt="facebook" title="facebook">
+                        </a>
+                    </p>
+                    <p class="inline-block font2">
+                        1.8M Follows
+                    </p>
+                </div>
+                <div class="threebox-stuff2">
+                    <p>
+                        <a href="https://www.instagram.com/savetheearthhumans" class="link">
+                            <img src="img/instagram.png" class="social-img" alt="instagram" title="instagram">
+                        </a>
+                    </p>
+                    <p class="inline-block font2">
+                        800K Views
+                    </p>
+                </div>
+                <div class="threebox-stuff2">
+                    <p>
+                        <a href="https://twitter.com/earth?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="link">
+                            <img src="img/twit.png" class="social-img" alt="twitter" title="twitter">
+                        </a>
+                    </p>
+                    <p class="inline-block font2">
+                        3.4M Likes
+                    </p>
+                </div>
+            </div>
+        </section>
+        <section>
+            <iframe src="https://www.youtube.com/embed/RzVvThhjAKw?start=1" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video">
+            </iframe>
+        </section>
+        <section>
+            <h1 class="big1">Latest Photos</h1>
+            <p class="text font4">
+                Beautiful Nature Pictures taken by Jacob Talin.
+            </p>
+            <p>
+                <a href="https://www.pinterest.ca/bhoffmann312/forest-paintings/" class="viewall">VIEW ALL</a>
+            </p>
+            <hr class="underlineright">
+        </section>
+        <section class="inline-block fourimg">
+            <div class="fourbox">
+                <img src="img/fourbox1.jpg" alt="Forest" title="Forest" class="fourboximg">
+                <p class="font3">
+                    Cat Falling
+                </p>
+                <p class="font4">
+                    $499
+                </p>
+            </div>
+            <div class="fourbox">
+                <img src="img/fourbox2.jpg"  alt="Lake" title="Lake" class="fourboximg">
+                <p class="font3">
+                    Loot Lake
+                </p>
+                <p class="font4">
+                    $299
+                </p>
+            </div>
+            <div class="fourbox">
+                <img src="img/fourbox3.jpg"  alt="Plains" title="Plains" class="fourboximg">
+                <p class="font3">
+                    Plantous Plains
+                </p>
+                <p class="font4">
+                    $399
+                </p>
+            </div>
+            <div class="fourbox">
+                <img src="img/fourbox4.jpg" alt="Tundras" title="Tundras" class="fourboximg">
+                <p class="font3">
+                    Winter Wonder
+                </p>
+                <p class="font4">
+                    $699
+                </p>
+            </div>
+        </section>
+        <section class="contactbg">
+            <div class="mailbox">
+                <img src="img/mail.png" alt="mail" title="mail" class="mail">
+                <h1 class="font0">Want Nature Photography In Your Mailbox?</h1>
+                <p class="font4">
+                    Enter Your Email Below! Weekly Photos, Weekly Fun!
+                </p>
+                <form>
+                    <input type="email" name="mails" placeholder="Email" class="formbox" required>
+                    <br>
+                    <input class="button" type="submit">
+                </form>
+            </div>
+        </section>
+        <footer class="footer">
+            <div>
+                <p class="font1">Jacob Talin</p>
+            </div>
+            <div class="nav-bar-footer">
+                <p>
+                    <a href="index.html" class="a-menu font4">Home</a>
+                    <a href="contact.html" class="a-menu font4">Contact</a>
+                </p>
+            </div>
+            <div class="three-footer">
+                <p>
+                    <a href="https://www.facebook.com/earth/" class="link">
+                        <img src="img/fb.png" class="social-img1" alt="facebook" title="facebook">
+                    </a>
+                    <a href="https://www.instagram.com/savetheearthhumans" class="link">
+                        <img src="img/instagram.png" class="social-img1" alt="instagram" title="instagram">
+                    </a>
+                    <a href="https://twitter.com/earth?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="link">
+                        <img src="img/twit.png" class="social-img1" alt="twitter" title="twitter">
+                    </a>
+                </p>  
+            </div>
+            <br>
+            <p class="font6">copyright 2022</p>
+        </footer>
+    </body>
+</html>
