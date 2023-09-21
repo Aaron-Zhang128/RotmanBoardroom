@@ -343,7 +343,7 @@ body {
     color: #FF0000;
 }
 .bg2 {
-    background-image: url(img/bg.jpg);
+    background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
@@ -463,13 +463,13 @@ body {
 }
 
 .contactbg {
-    background-image: url(img/contactbg.png);
+    background-image: url(contactbg.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
 }
 .shopbg {
-    background-image: url(img/contactbg.png);
+    background-image: url(contactbg.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
